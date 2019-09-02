@@ -13,9 +13,9 @@
 **Panduan Menjalankan Program**
 
 - Install XAMPP
-- Clone atau download this repository
-- Pindahkan repository folder to XAMPP/htdocs folder pada Local Drive anda.
 - Mulai Aplikasi XAMPP, nyalakan Apache dan MySQL
+- buat folder imip di dalam folder xampp/htdocs/
+- Clone di folder imip atau download this repository extract lalu paster ke folder imip
 - di browser, navigate to http://localhost/imip
 
 **Import database**
@@ -31,7 +31,7 @@
 - CSS
 - JavaScript
 - Bootstrap
-- PHP 5.6
+- PHP 5.6 NATIVE
  
 
 
